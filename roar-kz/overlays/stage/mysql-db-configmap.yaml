@@ -5,6 +5,6 @@ kind: ConfigMap
 metadata: 
   name: mysql-db-configmap
 data:
-  mysql.database: registry_prod
+  mysql.database: registry_test
 
 

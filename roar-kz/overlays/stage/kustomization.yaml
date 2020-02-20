@@ -1,8 +1,8 @@
 # Common label to be applied
 commonLabels:
-  variant: staging
+  variant: stage
 
-namespace: roar-staging
+namespace: roar-stage
 
 # List of resource files that kustomize reads, modifies
 # and emits as a YAML string
