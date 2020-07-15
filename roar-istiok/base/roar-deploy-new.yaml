@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: roar-web
-        image: "localhost:5000/roar-web:v2"
+        image: "bclaster/roar-web:v2"
         ports:
         - name: roar-web
           containerPort: 8080
